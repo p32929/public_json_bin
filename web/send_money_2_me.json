@@ -1,0 +1,32 @@
+[
+  {
+    "country": "Bangladesh",
+    "options": [
+      {
+        "logo": "https://www.logo.wine/a/logo/BKash/BKash-Icon-Logo.wine.svg",
+        "title": "bKash",
+        "description": "Account number: 01796306262"
+      },
+      {
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bank_Asia_Limited.svg/220px-Bank_Asia_Limited.svg.png",
+        "title": "BANK ASIA Limited",
+        "description": "Account name: Fayaz Bin Salam\n        Branch Name: Bahadderhat Branch\n        Account Number: 03434009594\n        SWIFT: BALBBDDHCTS\n        Address: Bahaddarhat, Chittagong\n        Branch number: 070150793"
+      }
+    ]
+  },
+  {
+    "country": "Worldwide",
+    "options": [
+      {
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bank_Asia_Limited.svg/220px-Bank_Asia_Limited.svg.png",
+        "title": "BANK ASIA Limited",
+        "description": "Account name: Fayaz Bin Salam\n        Branch Name: Bahadderhat Branch\n        Account Number: 03434009594\n        SWIFT: BALBBDDHCTS\n        Address: Bahaddarhat, Chittagong\n        Branch number: 070150793"
+      },
+      {
+        "logo": "https://www.logo.wine/a/logo/Payoneer/Payoneer-Logo.wine.svg",
+        "title": "Payoneer",
+        "description": "Email address: p32929@yahoo.com\n        Full name: Fayaz Bin Salam"
+      }
+    ]
+  }
+]
