@@ -1,0 +1,53 @@
+[
+  {
+    "country": "Bangladesh",
+    "options": [
+      {
+        "desc": "Medium: bKash\n                Account number: 01796306262",
+        "link": "https://www.bkash.com/",
+        "logo": "https://www.logo.wine/a/logo/BKash/BKash-Icon-Logo.wine.svg",
+        "title": "bKash"
+      },
+      {
+        "desc": "Bank Name: EXIM Bank\n                Account Holder Name: FAYAZ BIN SALAM\n                Branch Name: Banani Branch\n                Account Number: 06112100087615\n                Branch Routing Number: 100260432\n                SWIFT code: EXBKBDDH",
+        "link": "https://www.eximbankbd.com/",
+        "logo": "https://user-images.githubusercontent.com/6418354/85701466-3d533380-b6ff-11ea-9501-5463bea9bca1.png",
+        "title": "EXIM Bank"
+      }
+    ]
+  },
+  {
+    "country": "Portugal",
+    "options": [
+      {
+        "desc": "Bank Name: EXIM Bank\n                Account Holder Name: FAYAZ BIN SALAM\n                Branch Name: Banani Branch\n                Account Number: 06112100087615\n                Branch Routing Number: 100260432\n                SWIFT code: EXBKBDDH",
+        "link": "https://azimo.com/",
+        "logo": "https://user-images.githubusercontent.com/6418354/88306106-228ad380-cd2c-11ea-807b-33ec057acbca.png",
+        "title": "Azimo"
+      }
+    ]
+  },
+  {
+    "country": "Worldwide",
+    "options": [
+      {
+        "desc": "Email address: p32929@yahoo.com,\n                Full name: Fayaz Bin Salam",
+        "link": "payoneer.com",
+        "logo": "http://seekvectorlogo.com/wp-content/uploads/2018/09/payoneer-vector-logo-small.png",
+        "title": "Payoneer"
+      },
+      {
+        "desc": "Bank Name: EXIM Bank\n                Account Holder Name: FAYAZ BIN SALAM\n                Branch Name: Banani Branch\n                Account Number: 06112100087615\n                Branch Routing Number: 100260432\n                SWIFT code: EXBKBDDH",
+        "link": "https://www.xoom.com/",
+        "logo": "https://user-images.githubusercontent.com/6418354/85705970-90c78080-b703-11ea-990f-3b4bc01e57cc.png",
+        "title": "XOOM"
+      },
+      {
+        "desc": "Bank Name: EXIM Bank\n                Account Holder Name: FAYAZ BIN SALAM\n                Branch Name: Banani Branch\n                Account Number: 06112100087615\n                Branch Routing Number: 100260432\n                SWIFT code: EXBKBDDH",
+        "link": "https://transferwise.com/",
+        "logo": "https://user-images.githubusercontent.com/6418354/88306429-890ff180-cd2c-11ea-9127-72336d62ca17.png",
+        "title": "TransferWise"
+      }
+    ]
+  }
+]
