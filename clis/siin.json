@@ -1,0 +1,35 @@
+[
+  {
+    "alt": "/VERYSILENT /NORESTART /MERGETASKS=!runcode,addcontextmenufiles,addcontextmenufolders,associatewithfiles,desktopicon",
+    "url": "https://code.visualstudio.com/sha/download?build=stable\u0026os=win32-x64-user",
+    "title": "Vscode"
+  },
+  {
+    "url": "https://cdn.iobit.com/dl/unlocker-setup.exe",
+    "title": "Iobit unlocker"
+  },
+  {
+    "url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/Git-2.41.0.3-64-bit.exe",
+    "title": "Git"
+  },
+  {
+    "url": "https://nodejs.org/download/release/v16.20.1/node-v16.20.1-x64.msi",
+    "title": "NodeJS"
+  },
+  {
+    "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.4/npp.8.5.4.Installer.x64.exe",
+    "title": "Notepad++"
+  },
+  {
+    "url": "https://get.videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.exe",
+    "title": "Vlc player"
+  },
+  {
+    "url": "https://github.com/p32929/pomota/releases/download/app-v0.0.7/pomota_0.0.7_x64_en-US.msi",
+    "title": "Pomota"
+  },
+  {
+    "url": "https://filebin.net/10ekhzg0m7i7ys8v/picasa-3-9-138-150-multi-win.exe",
+    "title": "Picasa"
+  }
+]
